@@ -1,0 +1,11 @@
+ID,ProductName,Category,SalesAmount,TransactionDate
+1,Laptop,Electronics,1200.00,2023-10-01
+2,Mouse,Electronics,25.00,2023-10-01
+3,Keyboard,Electronics,75.00,2023-10-02
+4,Desk Lamp,Home Goods,40.00,2023-10-02
+5,Coffee Maker,Appliances,89.99,2023-10-03
+6,Book - "Cloud Computing",Books,35.50,2023-10-04
+7,Book - "Data Pipelines",Books,42.75,2023-10-04
+8,Monitor,Electronics,350.00,2023-10-05
+9,Webcam,Electronics,60.00,2023-10-05
+10,Notebook,Stationery,5.99,2023-10-06

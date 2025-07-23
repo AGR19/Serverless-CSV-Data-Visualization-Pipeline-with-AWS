@@ -1,0 +1,12 @@
+{
+    "fileLocations": [
+        {
+            "URIPrefixes": [
+                "s3://s3-us-west-1.amazonaws.com/my-data-pipeline-csv-final-data/"
+            ]
+        }
+    ],
+    "globalUploadSettings": {
+        "format": "PARQUET"
+    }
+} 
